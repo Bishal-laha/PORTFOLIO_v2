@@ -47,7 +47,7 @@ function Form() {
                 <input type="text" name="name" placeholder='Your Full Name*' required ref={nameRef} className='px-6 py-3 rounded-lg shadow-2xl' />
                 <input type="text" name="email" placeholder='Your Email Address*' required ref={emailRef} className='px-6 py-3 rounded-lg shadow-2xl' />
                 <textarea name="message" rows={6} cols={6} placeholder='Enter The Message*' required ref={messageRef} className='px-6 py-3 rounded-lg shadow-2xl'></textarea>
-                <button type='submit' className=' text-white shadow-2xl px-6 py-3 rounded-lg bg-teal-600 duration-300 hover:duration-300 hover:bg-teal-800'>Submit</button>
+                <button type='submit' className=' text-white shadow-2xl px-6 py-3 rounded-lg bg-teal-600 duration-300 hover:duration-300 hover:bg-teal-800'>Send</button>
             </form>
         </div>
     )

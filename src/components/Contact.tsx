@@ -37,7 +37,7 @@ function Contact() {
                                     </CardBody>
                                 </Card>
                             </Link>
-                            <Link href="#">
+                            <Link href="https://www.instagram.com/bishal_laha/" target="_blank">
                                 <Card maxW={300} minH={150}>
                                     <CardBody>
                                         <div className="text-[3rem] cursor-pointer text-red-800"><FaInstagram /><span className="mt-5 text-[1.9rem] font-bold">Connect With Me</span></div>

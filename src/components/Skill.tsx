@@ -43,6 +43,10 @@ function Skill() {
                                     <Progress hasStripe value={80} className="col-span-4 mt-[0.8rem] lg:mt-[0.1rem]" />
                                 </div>
                                 <div className="grid grid-cols-6 space-x-2">
+                                    <label className="text-[0.8rem] col-span-2 lg:text-[1rem]">Next JS : </label>
+                                    <Progress hasStripe value={70} className="col-span-4 mt-[0.8rem] lg:mt-[0.1rem]" />
+                                </div>
+                                <div className="grid grid-cols-6 space-x-2">
                                     <label className="text-[0.8rem] col-span-2 lg:text-[1rem]">Redux : </label>
                                     <Progress hasStripe value={70} className="col-span-4 mt-[0.8rem] lg:mt-[0.1rem]" />
                                 </div>
