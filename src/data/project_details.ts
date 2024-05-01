@@ -1,5 +1,14 @@
 export const projects = [
     {
+        title: "Chat-Book",
+        description:
+            `A real time chat chat application where user can chat with friends, create groups, make friends, get notifications using socket io. Also it integrates an admin dashboard which vizualises user interactions, performanxce using chart js`,
+        subDescription: " Tech Stack - React JS, JavaScript, Socket.IO, Node JS, Express JS, MongoDB, Redux, Material UI",
+        deployLink: "https://chat-book-client.vercel.app",
+        gitLink: "https://github.com/Bishal-laha/ChatBook_Client.git",
+        hasDeploy: true,
+    },
+    {
         title: "Blog-o-Pedia",
         description:
             `A blog website, similar like a share-space where user can create, edit, delete blogs on different topics. It has it's own authentication system. Also, it has it's own password generator which can help user during sign-up.`,
@@ -35,13 +44,13 @@ export const projects = [
         gitLink: "https://github.com/Bishal-laha/Intrusion-Detection-System.git",
         hasDeploy: false,
     },
-    {
-        title: "Old-Portfolio",
-        description:
-            `A portfolio version-I which depicts about myself.`,
-        subDescription: "Tech Stack - React JS, CSS",
-        deployLink: "https://bishal-laha.github.io/portfolio/",
-        gitLink: "https://github.com/Bishal-laha/portfolio.git",
-        hasDeploy: true,
-    },
+    // {
+    //     title: "Old-Portfolio",
+    //     description:
+    //         `A portfolio version-I which depicts about myself.`,
+    //     subDescription: "Tech Stack - React JS, CSS",
+    //     deployLink: "https://bishal-laha.github.io/portfolio/",
+    //     gitLink: "https://github.com/Bishal-laha/portfolio.git",
+    //     hasDeploy: true,
+    // },
 ];
