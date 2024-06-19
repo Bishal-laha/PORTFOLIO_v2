@@ -1,5 +1,14 @@
 export const projects = [
     {
+        title: "ConV",
+        description:
+            `Your own converter & compressor app where user can crop, compress image, convert and compress files.`,
+        subDescription: " Tech Stack - React JS, JavaScript, Redux, Tailwind CSS, Material UI",
+        deployLink: "https://main--con-v.netlify.app/",
+        gitLink: "https://github.com/Bishal-laha/ConV---APP.git",
+        hasDeploy: true,
+    },
+    {
         title: "Chat-Book",
         description:
             `A real time chat chat application where user can chat with friends, create groups, make friends, get notifications using socket io. Also it integrates an admin dashboard which vizualises user interactions, performanxce using chart js`,
