@@ -2,7 +2,7 @@ export const projects = [
     {
         title: "ConV",
         description:
-            `Your own converter & compressor app where user can crop, compress image, convert and compress files.`,
+            `A converter and compressor app that can help to deal with the small tasks in day-to-day life related to file conversion, image size compression, image width - height customization, image background removal, etc. As a solution to these small but crucial tasks, users generally find random websites or apps that create a threat to their data. So, the most highlighted feature of this project is to deal with data privacy and safety and provide an authentic solution.`,
         subDescription: " Tech Stack - React JS, JavaScript, Redux, Tailwind CSS, Material UI",
         deployLink: "https://main--con-v.netlify.app/",
         gitLink: "https://github.com/Bishal-laha/ConV---APP.git",
@@ -47,7 +47,7 @@ export const projects = [
     {
         title: "Intrusion Detection System",
         description:
-            `A IDS based on Machine Learning & Deep Learning & specifically Ensemble ML Method, which has high accuracy comparative to others. It's work is mainly to detect intrusions present in network. It has been specifically done in NSL-KDD Dataset.`,
+            `A network-based Intrusion Detection System based on Machine Learning, Deep Learning, and an ensemble of different ML and DL methods, which has an accuracy level of 99.82% that is quite higher in the field of ensemble learning compared to others. Here, the work is mainly to detect intrusion's presence in the network. It has been specifically done in the NSL-KDD Dataset.`,
         subDescription: "Tech Stack - Machine Learning, Deep Learning, Python",
         deployLink: "NA",
         gitLink: "https://github.com/Bishal-laha/Intrusion-Detection-System.git",
