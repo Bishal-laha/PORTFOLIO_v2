@@ -31,8 +31,8 @@ export const projects = [
         description:
             `A clone of Netflix service which has it's own authentication system and can offer information about movies, TV series of recent, upcoming, popular, etc. categories with extra feature of getting suggestion of movies and series according to customer using openAi support.`,
         subDescription: "Tech Stack - React JS, Tailwind CSS, FireBase, Redux",
-        deployLink: "https://netflix-clone-gpt-dd382.web.app/",
-        gitLink: "https://github.com/Bishal-laha/Netflix-Gpt.git",
+        deployLink: "https://fllix-gpt.netlify.app/",
+        gitLink: "https://github.com/Bishal-laha/Netflix-Clone-GPT.git",
         hasDeploy: true,
     },
     // {
